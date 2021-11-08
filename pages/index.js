@@ -4,9 +4,9 @@ import Link from '../components/Link'
 
 const Root = () => (
   <div>
-    <h1>Pronto Racing</h1>
+    <h1>Proxxys Typing Course</h1>
     <Link href='/play'>
-      <button>Start racing</button>
+      <button>Start Typing!</button>
     </Link>
     <Test />
   </div>
