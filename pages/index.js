@@ -4,7 +4,7 @@ import Link from '../components/Link'
 
 const Root = () => (
   <div>
-    <h1>Proxxys Typing Course</h1>
+    <h1>Typing Course</h1>
     <Link href='/play'>
       <button>Start Typing!</button>
     </Link>
